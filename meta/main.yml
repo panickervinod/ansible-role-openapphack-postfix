@@ -1,0 +1,20 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: openapphack
+  description: Postfix for Debian/Ubuntu.
+  company: ""
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: Debian
+    versions:
+    - all
+  - name: Ubuntu
+    versions:
+    - all
+  categories:
+    - networking
+    - system
+    - mail
